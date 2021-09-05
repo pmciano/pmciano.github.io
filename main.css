@@ -32,7 +32,9 @@ body {
 }
 
 /* Inline element font properties */
-canvas, cite, data, datalist, del, dfn, em, i, ins, kbd, label, noscript, q, ruby, s, samp, select, slot, small, strong, sub, sup, template, textarea, time, var, video {
+canvas, cite, data, datalist, del, dfn, em, i, ins, kbd, label, noscript,
+q, ruby, s, samp, select, slot, small, strong, sub, sup, template,
+textarea, time, var, video {
   color: #fffffd;
   overflow-wrap: break-word;
 }
@@ -57,13 +59,15 @@ pre {
   }
 
 /* Block-Level element font properties */
-address, blockquote, details, dialog, dd, dl, dt, fieldset, figcaption, figure, form, h1, h2, h3, h4, h5, h6, hgroup, hr, li, ol, p, table, ul {
+address, blockquote, details, dialog, dd, dl, dt, fieldset, figcaption,
+figure, form, h1, h2, h3, h4, h5, h6, hgroup, hr, li, ol, p, table, ul {
   color: #fffffd;
   overflow-wrap: break-word;
 }
 
 /* Font family */
-address, blockquote, details, dialog, dd, div, dl, dt, fieldset, figcaption, figure, form, h1, h2, h3, h4, h5, h6, hgroup, hr, li, ol, p, table, ul {
+address, blockquote, details, dialog, dd, div, dl, dt, fieldset, figcaption,
+figure, form, h1, h2, h3, h4, h5, h6, hgroup, hr, li, ol, p, table, ul {
   font-family: sans-serif;
 }
 
